@@ -2,6 +2,12 @@
 
 <p align="center">掘金小册下载</p>
 
+
+
+推荐使用 浏览器插件 [掘金助手](https://github.com/findmio/juejin-helper)，操作更加方便
+
+
+
 ## 使用方法
 
 ### 安装依赖
