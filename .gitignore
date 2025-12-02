@@ -79,6 +79,12 @@ web_modules/
 .env.production.local
 .env.local
 
+# Sensitive configuration files
+cookies.json
+
+# Editor history files
+.history/
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
